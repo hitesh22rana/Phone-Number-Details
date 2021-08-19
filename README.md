@@ -8,6 +8,11 @@ To run the code
 3) Now run the script Be sure that the number you add is valid 
 4) It will give the service provider detail of the number with which this number was originated
 
+Test-run
+
+input number in valid format for e.g. (for indian user) +91[your 10-digit number]
+country code should be mention in the input
+
 for e.g.
 
 You purchased a number from the service provider let it be x and then you change the service provider to y 
